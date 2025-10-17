@@ -14,8 +14,6 @@
 
 # 6.exception.py: in src
 
-# 7.utils.py: in src: any functionality written in common way which can be used anywhere in the project
+# 7.utils.py: in src: any functionality written in common way which can be used anywhere in the project. All the evaluation techniques for different models.
 
-# Business problem:
-
-
+# Business problem:Student Performance Indicator
