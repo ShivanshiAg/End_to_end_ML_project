@@ -16,4 +16,8 @@
 
 # 7.utils.py: in src: any functionality written in common way which can be used anywhere in the project. All the evaluation techniques for different models.
 
+# 8. Pipeline folder: This is aimed to connect a web application file(app.py) to interact with all the pkl files(in artifacts), to get the input data and make predictions
+
+# 9. predict_pipeline.py: CustomData class is responsible for mapping all the inputs given in html to the backend
+
 # Business problem:Student Performance Indicator (Regression Problem Statement)
