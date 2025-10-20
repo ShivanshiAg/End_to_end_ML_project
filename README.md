@@ -21,3 +21,9 @@
 # 9. predict_pipeline.py: CustomData class is responsible for mapping all the inputs given in html to the backend
 
 # Business problem:Student Performance Indicator (Regression Problem Statement)
+
+# Deployment on AWS: Elastic Beanstalk(cloud where we can make our environment) -> python.config
+#                                                                      |  
+# Github Repository -> code -> Deploy using Codepipeline(CD pipeline)--|
+
+# Steps: 1.Create Elastic Beanstalk instance and environment 2.Create codepipeline and integrate with GitHub for Continuous Deployment
